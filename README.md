@@ -17,3 +17,15 @@ This engine/renderer served as a learning experience for me to understand how to
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot.png)
+
+## Compilation
+
+To compile the engine, you will need to have the following dependencies installed:
+
+- XMake
+
+Once you have the dependencies installed, you can compile the engine by running the following commands:
+
+```
+xmake
+```
