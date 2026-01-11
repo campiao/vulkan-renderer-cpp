@@ -1,0 +1,17 @@
+.cache
+.xmake
+assets/models
+binaries
+build
+out
+compile_commands.json
+*.4coder
+
+external/**/*.cpp
+external/**/*.h
+external/**/*.hpp
+external/**/*.c
+external/**/*.cppm
+external/**/lib
+external/**/*.inl
+external/**/include
